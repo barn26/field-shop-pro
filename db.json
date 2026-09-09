@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "shopName": "FIELD SHOP PRO",
+    "paymentNumber": "0000 0000 0000 0000",
+    "paymentReceiver": "Отримувач",
+    "paymentNote": "Після оплати завантажте квитанцію нижче.",
+    "adminPin": "1234"
+  },
+  "products": [
+    {
+      "id": "p1",
+      "name": "Кава",
+      "description": "Приклад дозволеного товару",
+      "price": 80,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800"
+    },
+    {
+      "id": "p2",
+      "name": "Вода",
+      "description": "Пляшка питної води",
+      "price": 30,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800"
+    },
+    {
+      "id": "p3",
+      "name": "Батончик",
+      "description": "Харчовий батончик",
+      "price": 45,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1621939514649-280e2aa7b9ae?w=800"
+    }
+  ],
+  "orders": [],
+  "history": []
+}
